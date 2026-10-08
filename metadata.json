@@ -1,0 +1,6 @@
+{
+  "name": "대진전자통신고 학사일정 및 행사 알리미",
+  "description": "NEIS 공식 학사일정 실시간 연동, 월간/주간 인터랙티브 캘린더, 맞춤형 브리핑 알림 및 GitHub 학생 계정 연동 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
